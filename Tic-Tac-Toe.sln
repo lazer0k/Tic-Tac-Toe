@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F4BE9524-9C11-ECDA-C37F-C61113445456}") = "Tic-Tac-Toe", "Assembly-CSharp.csproj", "{5620242D-473D-A4B7-96F8-DF3E181FFFD0}"
+EndProject
+Project("{F4BE9524-9C11-ECDA-C37F-C61113445456}") = "Tic-Tac-Toe", "Assembly-CSharp-Editor.csproj", "{2F77BEC0-A971-14F7-E63A-5C0BF10B2481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5620242D-473D-A4B7-96F8-DF3E181FFFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5620242D-473D-A4B7-96F8-DF3E181FFFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5620242D-473D-A4B7-96F8-DF3E181FFFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5620242D-473D-A4B7-96F8-DF3E181FFFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F77BEC0-A971-14F7-E63A-5C0BF10B2481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F77BEC0-A971-14F7-E63A-5C0BF10B2481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F77BEC0-A971-14F7-E63A-5C0BF10B2481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F77BEC0-A971-14F7-E63A-5C0BF10B2481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
